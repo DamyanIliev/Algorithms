@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\Домашно 2Б\Source.cpp(134,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\Домашно 2Б\Source.cpp(135,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Домашно 2Б.vcxproj -> C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\Домашно 2Б\x64\Debug\Домашно 2Б.exe
