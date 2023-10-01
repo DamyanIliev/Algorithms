@@ -1,0 +1,3 @@
+﻿  Array_Опит.cpp
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\Array_Опит\Array_Опит.cpp(619,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Array_Опит.vcxproj -> C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\Array_Опит\x64\Debug\Array_Опит.exe

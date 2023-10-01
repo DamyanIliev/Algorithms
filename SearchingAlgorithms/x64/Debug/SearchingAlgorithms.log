@@ -1,0 +1,5 @@
+﻿  SearchingAlgorithms.cpp
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SearchingAlgorithms\SearchingAlgorithms.cpp(7,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SearchingAlgorithms\SearchingAlgorithms.cpp(55,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SearchingAlgorithms\SearchingAlgorithms.cpp(66,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SearchingAlgorithms.vcxproj -> C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SearchingAlgorithms\x64\Debug\SearchingAlgorithms.exe

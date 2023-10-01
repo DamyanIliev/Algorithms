@@ -1,0 +1,6 @@
+﻿  SortingAlgorithms.cpp
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SortingAlgorithms\SortingAlgorithms.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SortingAlgorithms\SortingAlgorithms.cpp(24,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SortingAlgorithms\SortingAlgorithms.cpp(39,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SortingAlgorithms\SortingAlgorithms.cpp(87,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SortingAlgorithms.vcxproj -> C:\Users\diliev\Desktop\NBU\Структури от данни\Домашни\SortingAlgorithms\x64\Debug\SortingAlgorithms.exe
